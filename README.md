@@ -30,7 +30,7 @@ Installing:
 The dataset comes from the Global Terrorism Database (https://www.start.umd.edu/data-tools/GTD). To download you will need to submit a request and accept the terms and conditions, then a link will be sent to your email which you will need to accept. Once you have accepted the request it will then redirect you to the download page. When the dataset is downloaded it will be in Excel format, you will need to convert it into CSV for the code to run. 
 
 Executing program:
-Click the run command to execute the program. Then you will be able to see the print statements of each section of the code and the graphs. 
+Click the run command to execute the program. Then you will be able to see the print statements of each section of the code and the graphs. For the XGBoost model, change the charactersitcs of a terrorist attack by altering the 0s and 1s. This will help to change the probability and give more insight into the types of attacks which target citizens. 
 
 Authors:
 ex. Madeleine Butcher
